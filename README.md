@@ -9,6 +9,7 @@ I will share projects on this profile which is developed wih Python and Java.
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anilkilickaplan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anilkilickaplan/1" alt="Recent Article 1">
 - 🏹 [You may contact me through (**LinkedIn**)](https://linkedin.com/in/anilkilickaplan)
 
+ My Github stats :factory:	
 [![ANIL's github stats](https://github-readme-stats.vercel.app/api?username=anilkilickaplan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
