@@ -1,4 +1,3 @@
-# main
 Hi, this is Anil! Welcome to my Github profile.
 
 I am a master's degree student in Software Engineering at Bogazici University. I love being in the IT industry and contributing applications that affect user's life.
